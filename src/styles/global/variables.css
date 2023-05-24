@@ -2,7 +2,7 @@
   /* Colors */
 
   --color-base-light: hsl(0, 0%, 50%);
-  --color-base-dark: hsl(0, 0%, 50%);
+  --color-base-dark: hsl(0, 0%, 0%);
   --color-accent-dark: hsl(0, 0%, 50%);
   --color-accent-light: hsl(0, 0%, 50%);
   --color-gray-light: hsl(206, 5.8%, 52.3%);
