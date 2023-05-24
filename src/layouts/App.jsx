@@ -26,14 +26,14 @@ export default function App() {
       BACK_COLOR: { r: 0, g: 0, b: 0 },
       TRANSPARENT: false,
       BLOOM: true,
-      BLOOM_ITERATIONS: 13,
-      BLOOM_RESOLUTION: 512,
+      BLOOM_ITERATIONS: 8,
+      BLOOM_RESOLUTION: 256,
       BLOOM_INTENSITY: 0.8,
       BLOOM_THRESHOLD: 0.9,
       BLOOM_SOFT_KNEE: 0.7,
       SUNRAYS: true,
       SUNRAYS_RESOLUTION: 196,
-      SUNRAYS_WEIGHT: 0.6,
+      SUNRAYS_WEIGHT: 1.0,
     });
   }, []);
 
