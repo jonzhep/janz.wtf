@@ -1,5 +1,6 @@
 /* GLOBAL CSS */
 
+
 @import '../styles/global/reset.css';
 @import '../styles/global/global.css';
 @import '../styles/global/variables.css';
@@ -28,4 +29,14 @@ canvas {
   height: 100%;
   background-color: #000000;
   overflow: none;
+}
+
+@font-face {
+  font-family: 'Bigosih Highpick';
+  src: url('/fonts/Bigosih-Highpick.woff2') format('woff2'),
+       url('/fonts/Bigosih-Highpick.woff') format('woff'),
+       url('/fonts/Bigosih-Highpick.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
