@@ -14,7 +14,7 @@
 @import '../styles/exceptions/exceptions.css';
 
 body {
-  font-family: 'Bigosih Highpick', sans-serif;
+  font-family: 'Bigosih Highpick', Arial, Helvetica, sans-serif;
 }
 
 .App {
