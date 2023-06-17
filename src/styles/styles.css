@@ -13,6 +13,10 @@
 @import '../styles/blocks/blocks.css';
 @import '../styles/exceptions/exceptions.css';
 
+body {
+  font-family: 'Bigosih Highpick', sans-serif;
+}
+
 .App {
   font-family: sans-serif;
   text-align: center;

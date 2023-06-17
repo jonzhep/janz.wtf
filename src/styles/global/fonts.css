@@ -3,8 +3,7 @@
   font-style: normal;
   font-weight: 100;
   font-display: swap;
-  src: local(''),
-       url('/fonts/Bigosih-Highpick.woff2') format('woff2'),
+  src: url('/fonts/Bigosih-Highpick.woff2') format('woff2'),
        url('/fonts/Bigosih-Highpick.woff') format('woff'),
        url('/fonts/Bigosih-Highpick.ttf') format('truetype');
 }
@@ -13,8 +12,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: local(''),
-       url('/fonts/Bigosih-Highpick.woff2') format('woff2'),
+  src: url('/fonts/Bigosih-Highpick.woff2') format('woff2'),
        url('/fonts/Bigosih-Highpick.woff') format('woff'),
        url('/fonts/Bigosih-Highpick.ttf') format('truetype');
 }
